@@ -43,7 +43,7 @@ git add .
 git commit -m "Add team-name starter"
 
 -6. Push your branch to your fork
-git push origin team-name
+git push origin main
 
 🛠️ Then:
 
